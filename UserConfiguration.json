@@ -4881,7 +4881,10 @@
                 null,
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "playMacro",
+                  "macroIndex": 2
+                },
                 null,
                 null,
                 null,
@@ -6937,6 +6940,18 @@
         {
           "macroActionType": "text",
           "text": "iddqd"
+        }
+      ]
+    },
+    {
+      "isLooped": false,
+      "isPrivate": true,
+      "name": "Hold Middle Button",
+      "macroActions": [
+        {
+          "macroActionType": "mouseButton",
+          "action": "hold",
+          "mouseButtonsMask": 4
         }
       ]
     },
