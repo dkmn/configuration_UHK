@@ -4618,61 +4618,100 @@
               "id": 0,
               "keyActions": [
                 null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 84
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 85
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 86
+                },
                 null,
                 null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 83
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 95
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 96
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 97
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 87
+                },
                 null,
                 null,
                 null,
                 null,
                 {
                   "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 205
+                  "type": "basic",
+                  "scancode": 92
                 },
                 {
                   "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 233
-                },
-                null,
-                null,
-                null,
-                null,
-                {
-                  "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 184,
-                  "modifierMask": 12
-                },
-                null,
-                {
-                  "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 182
+                  "type": "basic",
+                  "scancode": 93
                 },
                 {
                   "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 234
+                  "type": "basic",
+                  "scancode": 94
                 },
                 {
                   "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 181
+                  "type": "basic",
+                  "scancode": 87
                 },
-                null,
-                null,
-                null,
                 null,
                 null,
                 null,
                 {
                   "keyActionType": "keystroke",
-                  "type": "media",
-                  "scancode": 226
+                  "type": "basic",
+                  "scancode": 98
                 },
-                null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 89
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 90
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 91
+                },
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "scancode": 88
+                },
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
