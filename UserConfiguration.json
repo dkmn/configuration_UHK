@@ -4161,7 +4161,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 53
+                  "scancode": 41
                 },
                 {
                   "keyActionType": "keystroke",
@@ -4485,7 +4485,7 @@
                 {
                   "keyActionType": "keystroke",
                   "type": "basic",
-                  "scancode": 41
+                  "scancode": 53
                 },
                 {
                   "keyActionType": "keystroke",
