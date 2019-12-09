@@ -4784,14 +4784,22 @@
                   "keymapAbbreviation": "COM"
                 },
                 null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 233
+                },
                 null,
                 null,
                 null,
                 null,
                 null,
                 null,
-                null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 234
+                },
                 null,
                 null,
                 null,
@@ -4803,7 +4811,11 @@
                   "modifierMask": 2
                 },
                 null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "media",
+                  "scancode": 226
+                },
                 null,
                 null,
                 null,
