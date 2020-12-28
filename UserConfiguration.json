@@ -4762,27 +4762,12 @@
               "id": 1,
               "keyActions": [
                 null,
-                {
-                  "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "QWR"
-                },
-                {
-                  "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVO"
-                },
-                {
-                  "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COL"
-                },
                 null,
-                {
-                  "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "DVM"
-                },
-                {
-                  "keyActionType": "switchKeymap",
-                  "keymapAbbreviation": "COM"
-                },
+                null,
+                null,
+                null,
+                null,
+                null,
                 null,
                 {
                   "keyActionType": "keystroke",
